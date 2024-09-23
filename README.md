@@ -1,5 +1,11 @@
 ![Banner](Banner_QA_tester.png)
 
+<div id="header" align="center">
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guillermo-renteria-bravo-b37b9b208/)
+  
+</div>
+
 👨‍💻 Sobre mí :
 Aspirante a QA tester / Software tester. Siempre eh tenido interes en temas relacionado con la tecnologia, hasta ahora que pude manejar el tiempo para dar mi primer paso.
 
