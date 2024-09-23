@@ -19,6 +19,7 @@ Aspiring QA tester / Software tester. I have always been interested in technolog
 
 📱 +52 664-11-41-869
 
+🌐 Language: Native Spanish and Conversational English.
 
 
 
