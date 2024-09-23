@@ -1,4 +1,4 @@
-# Hi there
+# Hi there, thanks for visiting my profile, I'm
 
 ![Banner](Banner_QA_tester.png)
 
