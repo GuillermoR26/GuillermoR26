@@ -19,3 +19,12 @@ Aspirante a QA tester / Software tester. Siempre eh tenido interes en temas rela
 
 📱 +52 664-11-41-869
 
+
+
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+  
+   [![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,devto,nodejs,js,html,css,figma,discord,pycharm,selenium)](https://skillicons.dev)
+
+</div>
