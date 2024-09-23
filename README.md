@@ -6,14 +6,14 @@
   
 </div>
 
-👨‍💻 Sobre mí :
-Aspirante a QA tester / Software tester. Siempre eh tenido interes en temas relacionado con la tecnologia, hasta ahora que pude manejar el tiempo para dar mi primer paso.
+👨‍💻 About me :
+Aspiring QA tester / Software tester. I have always been interested in technology related topics, until now I could manage the time to make my first step.
 
-🔭 Completado mi curso en tripleten de QA tester engineer y con una licenciatura en ingenieria en aeronautica, espero demostrar mis habilidades en el rubro de la tecnologia combinando la experiencia que eh desarrollado en ambos rubros y dar resultados favorables en donde me desemepeñe.
+🔭 Having completed my QA tester engineer tripleten course and with a degree in aeronautical engineering, I hope to demonstrate my skills in the technology field combining the experience I have developed in both fields and give favorable results where I develop.
 
-🌱 Heramientas como: Selenium , lenguaje SQL y Python, utilizando la libreria Pythest y Request, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.🧑‍💻
+🌱 Tools such as: Selenium, SQL language and Python, using the Pythest and Request libraries, as well as Manual Testing tools, such as Jira, Postman and Android Studio.
 
-📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-JGRB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guillermo-renteria-bravo-b37b9b208/)
+📫 Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-JGRB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guillermo-renteria-bravo-b37b9b208/)
 
 📧 renteriabravojgg102@gmail.com
 
@@ -22,7 +22,7 @@ Aspirante a QA tester / Software tester. Siempre eh tenido interes en temas rela
 
 
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+### :hammer_and_wrench: Language and tools :
 <div id="header" align="left">
   
    [![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,devto,nodejs,js,html,css,figma,discord,pycharm,selenium)](https://skillicons.dev)
