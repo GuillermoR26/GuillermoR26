@@ -1,4 +1,4 @@
-![Banner](Banner_QA_tester.png)
+![Banner](QA-Banner.png)
 
 <div id="header" align="center">
 
