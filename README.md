@@ -7,11 +7,11 @@
 </div>
 
 👨‍💻 About me :
-Aspiring QA tester / Software tester. I have always been interested in technology related topics, until now I could manage the time to make my first step.
+Quality Assurance Tester focused on ensuring software excellence. Experienced in the execution of manual testing, performance testing, and automation testing (among other testing types) to maximize product coverage and efficiency. Skilled in the creation of detailed test cases, along with bug documentation, reporting, and tracking, guaranteeing effective communication and the full follow-up of defects. I am committed to applying my knowledge to drive quality and reliability throughout every development cycle.
 
-🔭 Having completed my QA tester engineer tripleten course and with a degree in aeronautical engineering, I hope to demonstrate my skills in the technology field combining the experience I have developed in both fields and give favorable results where I develop.
+🔭 As a dedicated QA professional, I am focused on mastering Test Automation to drive scalable efficiency. I am concurrently undertaking in-depth studies in application and web development. My goal is to evolve into a skilled Automation Tester, leveraging deep code knowledge for robust and high-quality solution implementation.
 
-🌱 Tools such as: Selenium, SQL language and Python, using the Pythest and Request libraries, as well as Manual Testing tools, such as Jira, Postman and Android Studio.
+🌱 Tools such as: Selenium, SQL language (DBeaver), Python using the Pythest and Request libraries, JavaScript for Peformance testing as well as Manual Testing tools, such as Jira, Azure devops, Postman, Android Studio, Proxyman, Visual Studio Code and GrafanaK6.
 
 📫 Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-JGRB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guillermo-renteria-bravo-b37b9b208/)
 
