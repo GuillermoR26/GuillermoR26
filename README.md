@@ -15,10 +15,6 @@ Quality Assurance Tester focused on ensuring software excellence. Experienced in
 
 📫 Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-JGRB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guillermo-renteria-bravo-b37b9b208/)
 
-📧 renteriabravojgg102@gmail.com
-
-📱 +52 664-11-41-869
-
 🌐 Language: Native Spanish and Conversational English.
 
 
