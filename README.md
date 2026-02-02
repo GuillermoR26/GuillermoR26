@@ -21,7 +21,7 @@ Quality Assurance Tester focused on ensuring software excellence. Experienced in
 
 ### :hammer_and_wrench: Language and tools :
 <div id="header" align="left">
-  
-   [![My Skills](https://skillicons.dev/icons?i=py,postman,postgres,github,devto,nodejs,js,html,css,figma,discord,pycharm,selenium)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postman,postgres,github,devto,nodejs,js,html,css,figma,discord,pycharm,selenium" />
+  </a>
 </div>
