@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guillermo-renteria-bravo-b37b9b208/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermorenteria-qaengineer/)
   
 </div>
 
@@ -13,7 +13,7 @@ Quality Assurance Tester focused on ensuring software excellence. Experienced in
 
 🌱 Tools such as: Selenium, SQL language (DBeaver), Python using the Pythest and Request libraries, JavaScript for Peformance testing as well as Manual Testing tools, such as Jira, Azure devops, Postman, Android Studio, Proxyman, Visual Studio Code and GrafanaK6.
 
-📫 Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-JGRB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-guillermo-renteria-bravo-b37b9b208/)
+📫 Would you like to contact me? [![Linkedin Badge](https://img.shields.io/badge/-JGRB-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guillermorenteria-qaengineer/)
 
 🌐 Language: Native Spanish and Conversational English.
 
@@ -21,7 +21,16 @@ Quality Assurance Tester focused on ensuring software excellence. Experienced in
 
 ### :hammer_and_wrench: Language and tools :
 <div id="header" align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postman,postgres,github,devto,nodejs,js,html,css,figma,discord,pycharm,selenium" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discord logo"  />
 </div>
