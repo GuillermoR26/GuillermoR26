@@ -1,4 +1,4 @@
-![Banner](QA-Banner.png)
+![Banner](1.png)
 
 <div id="header" align="center">
 
